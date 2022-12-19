@@ -1,26 +1,26 @@
-### ½éÉÜ
-- ´ËÅÌÎª×ÊÔ´·ÖÏíÅÌ£¬ $\color{#DC143C}{ËæÔµ}$ ¸üÐÂ.
+### ä»‹ç»
+- æ­¤ç›˜ä¸ºèµ„æºåˆ†äº«ç›˜ï¼Œ $\color{#DC143C}{éšç¼˜}$ æ›´æ–°.
 
 ----
-- ? ¿ÉÉÏ´«Â·¾¶
-  - ? [OneDrive](/OneDrive)
-  - ? [°¢ÀïÔÆÅÌ](/aliyun/Upload/)
-  - ? [189Cloud](/189Cloud1/)
-  - ? [123Pan1](/123Pan1/)
-  - ? [123Pan2](/123Pan2/)
+- âœ… å¯ä¸Šä¼ è·¯å¾„
+  - âœ… [OneDrive](/OneDrive)
+  - âœ… [é˜¿é‡Œäº‘ç›˜](/aliyun/Upload/)
+  - âœ… [189Cloud](/189Cloud1/)
+  - âœ… [123Pan1](/123Pan1/)
+  - âœ… [123Pan2](/123Pan2/)
 
 
 
-$\color{#DC143C}{ÇëÎðÉÏ´«Éæ¼°Î¥·¨¡¢ÇÖÈ¨µÈÄÚÈÝ}$
-### ÊÓÆµ
-- ÊÓÆµ¿ÉÔÚÏß²¥·Å£¬²¿·ÖÊÓÆµ¿ÉÄÜÄÚÖÃ²¥·ÅÆ÷ÎÞ·¨Õý³£½âÂë.
-- ÊÖ»ú¶Ë(°²×¿)°²×°VLCºó£¬µã»÷ÊÓÆµÏÂ·½µÄVLC³ÈÉ«°´Å¥,¿ÉÒÔÌø×ªµ½Èí¼þÄÚÕý³£²¥·Å.
-- PC¶Ë°²×°PotPayer,µã»÷ÊÓÆµÏÂ·½µÄ»ÆÉ«PotPlayer°´Å¥,¿ÉÒÔÌø×ªµ½PotPayerÄÚÕý³£²¥·Å.
-### ÆäËûÔÝÎÞ
+$\color{#DC143C}{è¯·å‹¿ä¸Šä¼ æ¶‰åŠè¿æ³•ã€ä¾µæƒç­‰å†…å®¹}$
+### è§†é¢‘
+- è§†é¢‘å¯åœ¨çº¿æ’­æ”¾ï¼Œéƒ¨åˆ†è§†é¢‘å¯èƒ½å†…ç½®æ’­æ”¾å™¨æ— æ³•æ­£å¸¸è§£ç .
+- æ‰‹æœºç«¯(å®‰å“)å®‰è£…VLCåŽï¼Œç‚¹å‡»è§†é¢‘ä¸‹æ–¹çš„VLCæ©™è‰²æŒ‰é’®,å¯ä»¥è·³è½¬åˆ°è½¯ä»¶å†…æ­£å¸¸æ’­æ”¾.
+- PCç«¯å®‰è£…PotPayer,ç‚¹å‡»è§†é¢‘ä¸‹æ–¹çš„é»„è‰²PotPlayeræŒ‰é’®,å¯ä»¥è·³è½¬åˆ°PotPayerå†…æ­£å¸¸æ’­æ”¾.
+### å…¶ä»–æš‚æ— 
 
 <hr>
 <br>
   <a href="/@manage">
-            <b>??½ð¹â¼¯</b>
+            <b>Â©ï¸é‡‘å…‰é›†</b>
         </a>
 <br><br>
